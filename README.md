@@ -77,6 +77,15 @@ https://github.com/manuelbomi/Mergers-and-Acquisitions-Strategy-Framework-for-Te
 
 ---
 
+#### <ins>Repository 5</ins>: AI and Data-Driven Test Optimization
+
+#### <ins>Title</ins>: AI and Data-Driven Solutions for Wafer Sort, Final Test, and SLT in Semiconductor Manufacturing
+##### This repository provides **deeper analytical and AI-driven insights** for optimizing <ins>Wafer Sort</ins>, <ins>FT</ins>, and <ins>SLT</ins> processes. It details how AI pipelines can make test operations more **painless, nimble, and intelligent** through automation, real-time learning, and data correlation across lifecycle stages.
+
+<ins>Repo Link</ins>:
+https://github.com/manuelbomi/AI-and-Data-Driven-Solutions-for-Wafer-Sort-Final-Test-and-SLT-in-Semiconductor-Manufacturing
+
+---
 
 
 
