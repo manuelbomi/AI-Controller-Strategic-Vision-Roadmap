@@ -114,7 +114,7 @@ https://github.com/manuelbomi/AI-and-Data-Driven-Solutions-for-Wafer-Sort-Final-
 
 ---
 
-## Strategic Pillars, Vision & Roadmap for Teradyne's Semiconductor Test AI Controller Platform Leadership
+# Strategic Pillars, Vision & Roadmap for Teradyne's Semiconductor Test AI Controller Platform Leadership
 
 ### <ins>Pillar 1</ins>: The AI-Enabled Intelligent Test Controller
 
