@@ -56,3 +56,17 @@
 <ins>Repo Link</ins>:
 https://github.com/manuelbomi/AI-Controller-From-Vision-to-Execution
 
+---
+#### <ins>Repository 3</ins>: Go-To-Market Strategy and Execution
+
+#### <ins>Title</ins>: Go-to-Market Strategy & Execution Plan for Teradyne’s Semiconductor Test AI Controller — Driving Adoption for Automotive Semiconductor Zero DPPM
+##### This repository formulates and validates go-to-market strategies for the AI Controller platform. It uses executable code and data-driven simulations to project adoption scenarios, model customer segmentation, and quantify market ROI. The frameworks here can run standalone or integrate seamlessly into the AI Controller platform.
+
+<ins>Repo Link</ins>:
+https://github.com/manuelbomi/Go-to-Market-Strategy-and-Execution-Plan-for-Teradyne-s-Semiconductor-Test-AI-Controller
+
+---
+
+
+
+
