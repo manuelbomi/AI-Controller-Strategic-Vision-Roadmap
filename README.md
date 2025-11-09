@@ -54,4 +54,5 @@
 ##### This repository demonstrates how the AI Controller vision is operationalized through Python-based simulations, machine learning workflows, and visualization frameworks. It bridges data, engineering, and business outcomes—showing how to build, deploy, and scale AI models that power the Controller.
 
 <ins>Repo Link</ins>:
-manuelbomi/AI-Controller-From-Vision-to-Execution: A Complete Strategic & Technical Framework for Teradyne’s AI Product ----- Bridging Data, Engineering, and Business Outcomes in Semiconductor Test Automation
+https://github.com/manuelbomi/AI-Controller-From-Vision-to-Execution
+
