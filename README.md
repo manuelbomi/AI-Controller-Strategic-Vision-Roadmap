@@ -88,7 +88,7 @@ https://github.com/manuelbomi/AI-and-Data-Driven-Solutions-for-Wafer-Sort-Final-
 ---
 ---
 
-## Understanding Teradyne's Strategic Position
+# Understanding Teradyne's Strategic Position
 
 ### Semiconductor Test Issues, Market Analysis & Opportunity
 
