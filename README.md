@@ -20,3 +20,24 @@
 - Boost CDT engineer productivity, and
 
 - Scale Teradyne’s equipment versatility and global leadership in semiconductor test innovation.
+
+---
+## Purpose and Scope of the Current Repository (Repository 1)
+
+#### This repository forms the strategic and conceptual foundation of the Teradyne AI Controller Program. It defines the overarching vision, roadmap, architecture, and strategic pillars that position the AI Controller as a transformative force in semiconductor test.
+
+#### Specifically, Repository 1:
+
+- Outlines the vision and benefits of the AI Controller platform and how it transforms the test lifecycle.
+
+- Defines the AI Controller architecture, covering its Edge, Cloud, and Ecosystem integration layers.
+
+- Establishes the strategic pillars for AI-driven adaptive testing, cross-lifecycle data intelligence, and collaborative innovation.
+
+- Describes the go-to-market strategy for scalable adoption within the automotive, AI chip, and advanced semiconductor markets.
+
+- Presents KPIs, success metrics, and ROI frameworks that quantify business and technical value.
+
+- Highlights risk mitigation strategies, ensuring technological robustness, customer trust, and long-term scalability.
+
+#### In short, Repository 1 serves as both a vision blueprint and technical anchor, setting the direction for the entire AI Controller ecosystem.
