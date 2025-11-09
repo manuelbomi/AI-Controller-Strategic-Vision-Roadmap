@@ -67,6 +67,16 @@ https://github.com/manuelbomi/Go-to-Market-Strategy-and-Execution-Plan-for-Terad
 
 ---
 
+#### <ins>Repository 4</ins>: Mergers & Acquisitions Strategy
+
+#### <ins>Title</ins>: Mergers & Acquisitions Strategy Framework for Teradyne’s AI Controller Roadmap
+##### This repository explores how AI intelligence can enhance Teradyne’s M&A strategy—identifying synergistic partners, automating valuation analytics, and quantifying acquisition impact using predictive models. The embedded Python tools can evaluate potential targets and be integrated directly into the AI Controller ecosystem.
+
+<ins>Repo Link</ins>:
+https://github.com/manuelbomi/Mergers-and-Acquisitions-Strategy-Framework-for-Teradyne-s-AI-Controller-Roadmap
+
+---
+
 
 
 
