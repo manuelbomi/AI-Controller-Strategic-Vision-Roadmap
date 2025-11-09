@@ -41,3 +41,17 @@
 - Highlights risk mitigation strategies, ensuring technological robustness, customer trust, and long-term scalability.
 
 #### In short, Repository 1 serves as both a vision blueprint and technical anchor, setting the direction for the entire AI Controller ecosystem.
+
+---
+
+## Positioning Within the AI Controller Repository Suite
+
+#### To provide an integrated view, Repository 1 connects conceptually and technically with four complementary repositories, each addressing a critical dimension of execution:
+
+#### <ins>Repository 2</ins>: From Vision to Execution
+
+#### <ins>Title</ins>: AI Controller: From Vision to Execution — A Complete Strategic & Technical Framework for Teradyne’s AI Product
+##### This repository demonstrates how the AI Controller vision is operationalized through Python-based simulations, machine learning workflows, and visualization frameworks. It bridges data, engineering, and business outcomes—showing how to build, deploy, and scale AI models that power the Controller.
+
+<ins>Repo Link</ins>:
+manuelbomi/AI-Controller-From-Vision-to-Execution: A Complete Strategic & Technical Framework for Teradyne’s AI Product ----- Bridging Data, Engineering, and Business Outcomes in Semiconductor Test Automation
