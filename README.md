@@ -17,7 +17,7 @@
 
 - Accelerate product time-to-market,
 
-- Boost CDT engineer productivity, and
+- Boost CDT engineers' productivity, and
 
 - Scale Teradyne’s equipment versatility and global leadership in semiconductor test innovation.
 
