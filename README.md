@@ -218,7 +218,7 @@ https://github.com/manuelbomi/AI-and-Data-Driven-Solutions-for-Wafer-Sort-Final-
 ## Technical Architecture & Implementation
 
 #### <ins>AI Controller Platform Architecture</ins>
-(Cloud Integration & Customes' Layer Perspective)
+(Cloud Integration & Customers' Layer Perspective)
 
 ```python
 ┌─────────────────┐    ┌─────────────────┐    ┌─────────────────┐
