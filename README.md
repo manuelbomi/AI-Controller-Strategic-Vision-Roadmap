@@ -224,7 +224,7 @@ https://github.com/manuelbomi/AI-and-Data-Driven-Solutions-for-Wafer-Sort-Final-
 ┌─────────────────┐    ┌─────────────────┐    ┌─────────────────┐
 │   Edge AI       │    │   Cloud AI      │    │   Partner AI    │
 │   Inference     │◄──►│   Training      │◄──►│   Ecosystem     │
-│   Real-time     │    │   Analytics     │    │   Integration   │
+│   (Real-time)   │    │   (Analytics)   │    │   (Integration) │
 └─────────────────┘    └─────────────────┘    └─────────────────┘
          │                        │                        │
          ▼                        ▼                        ▼
