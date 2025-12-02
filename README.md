@@ -46,7 +46,7 @@
 
 ## Positioning Within the AI Controller Repository Suite
 
-#### To provide an integrated view, Repository 1 connects conceptually and technically with four complementary repositories, each addressing a critical dimension of execution:
+#### To provide an integrated view, Repository 1 connects conceptually and technically with four other complementary repositories, each addressing a critical dimension of execution:
 
 #### <ins>Repository 2</ins>: From Vision to Execution
 
